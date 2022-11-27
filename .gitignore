@@ -1,0 +1,9 @@
+proptrans*
+names*
+venv/
+sx/
+.vscode/
+.notebook/
+.ipynb_checkpoints/
+_spark_metadata/
+spark-3.3.1-bin-hadoop3/
